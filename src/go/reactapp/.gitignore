@@ -1,2 +1,12 @@
 rice-box.go
 ./rice-box.go
+
+
+out
+./out
+
+dist
+./dist
+
+build
+./build

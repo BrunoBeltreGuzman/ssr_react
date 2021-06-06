@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+out
+./out
+
+dist
+./dist
+
+build
+./build
