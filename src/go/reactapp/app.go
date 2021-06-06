@@ -12,7 +12,7 @@ import (
 func main() {
 
 	//Server config
-	const PORT string = ":8080"
+	const PORT string = ":3001"
 
 	//Server routers and static files
 	routers := mux.NewRouter()
