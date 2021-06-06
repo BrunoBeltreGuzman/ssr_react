@@ -1,6 +1,6 @@
-# Example Client Web
+# App SSR React
 
-Go SSR App Next React
+Usage of Server-side rendering in react apps
 
 # Init
 
