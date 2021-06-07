@@ -1,4 +1,4 @@
-# App SSR React
+# SSR App React
 
 Usage of Server-side rendering in react apps
 
