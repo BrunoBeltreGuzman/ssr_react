@@ -104,8 +104,6 @@ dist
 .tern-port
 out
 
-out
-./out
 
 dist
 ./dist
