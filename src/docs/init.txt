@@ -1,0 +1,7 @@
+
+
+Create app:
+$ dotnet new web
+
+Run:
+dotnet run 
