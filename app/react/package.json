@@ -2,6 +2,7 @@
        "name": "pwa",
        "version": "1.0.0",
        "private": true,
+       "homepage": "/build/",
        "scripts": {
               "dev": "react-scripts start",
               "start": "serve ./build -s -p ${PORT:-4000}",
